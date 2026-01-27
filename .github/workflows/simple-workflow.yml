@@ -37,5 +37,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-      - name: echo all vaiables 
+      - name: echo all vaiables
       
+        
+
